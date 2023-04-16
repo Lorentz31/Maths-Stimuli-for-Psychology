@@ -1,2 +1,2 @@
 # Maths-Stimuli-for-Psychology
-Scripts related to maths stimuli for experimental psychology.
+Old scripts related to maths stimuli for experimental psychology.
